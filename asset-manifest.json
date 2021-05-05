@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pdf-converter/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/pdf-converter/static/js/main.b0f163c4.chunk.js",
+    "main.js.map": "/pdf-converter/static/js/main.b0f163c4.chunk.js.map",
+    "runtime-main.js": "/pdf-converter/static/js/runtime-main.c6b5b485.js",
+    "runtime-main.js.map": "/pdf-converter/static/js/runtime-main.c6b5b485.js.map",
+    "static/js/2.4b977182.chunk.js": "/pdf-converter/static/js/2.4b977182.chunk.js",
+    "static/js/2.4b977182.chunk.js.map": "/pdf-converter/static/js/2.4b977182.chunk.js.map",
+    "static/js/3.b0d7fab4.chunk.js": "/pdf-converter/static/js/3.b0d7fab4.chunk.js",
+    "static/js/3.b0d7fab4.chunk.js.map": "/pdf-converter/static/js/3.b0d7fab4.chunk.js.map",
+    "index.html": "/pdf-converter/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/pdf-converter/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4b977182.chunk.js.LICENSE.txt": "/pdf-converter/static/js/2.4b977182.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pdf-converter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6b5b485.js",
+    "static/js/2.4b977182.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b0f163c4.chunk.js"
+  ]
+}
